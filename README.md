@@ -1,7 +1,5 @@
 # Several_Disease
 
-Certainly! Here's the project description with the technologies used for the "Several Disease Prediction using Machine Learning" project:
-
 **Project Title: Several Disease Prediction using Machine Learning**
 
 **Project Overview:**

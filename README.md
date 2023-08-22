@@ -49,3 +49,22 @@ Future Enhancements:
 **Conclusion:**
 
 The "Several Disease Prediction using Machine Learning" project offers a comprehensive solution for early disease detection and prediction, aligning technological advancements with healthcare needs. By harnessing the power of machine learning and leveraging a range of technologies, the project contributes to improving patient care, medical decision-making, and public health outcomes.
+It's now based on dataset only but further it will be updated with a Backend Technology to upload a prescription and report and then putting out the points by scrapping and then finding out the Disease Prediction.
+
+## Screenshots 
+
+1] <img width="1433" alt="Diabetes Is there" src="https://github.com/Subhraneel77/Several_Disease/assets/75981967/1e8e15d7-7a64-45f1-90a8-721e30643349">
+
+2] <img width="1440" alt="Diabetes Is not there" src="https://github.com/Subhraneel77/Several_Disease/assets/75981967/df5682b6-3769-4bb9-b764-7e283a975010">
+
+3] <img width="1440" alt="Heart Disease is there" src="https://github.com/Subhraneel77/Several_Disease/assets/75981967/593d1016-548e-4278-8747-5fc080d8ffb5">
+
+4] <img width="1440" alt="Heart Disease is not there" src="https://github.com/Subhraneel77/Several_Disease/assets/75981967/8ddcc7b1-7598-47f2-b29c-b2466df6865a">
+
+5] <img width="1440" alt="Perkinson's " src="https://github.com/Subhraneel77/Several_Disease/assets/75981967/1aac69be-52e7-4ad0-94c4-f241cdde7024">
+
+6] <img width="744" alt="Streamlit" src="https://github.com/Subhraneel77/Several_Disease/assets/75981967/5c83c682-fa8d-4bda-9385-3e02cb534c85">
+
+
+
+
